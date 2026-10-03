@@ -1,0 +1,31 @@
+:root {
+  /* Cor */
+  --cor-fundo: #f7f1e8;
+  --cor-superficie: #fff8f0;
+  --cor-texto: #2c2118;
+  --cor-texto-suave: #5c4a3a;
+  --cor-marca: #6b3e26;
+  --cor-cta: #c45c26;
+  --cor-cta-texto: #ffffff;
+  --cor-borda: #e0d2c0;
+
+  /* Tipo */
+  --fonte-base: "Segoe UI", system-ui, sans-serif;
+  --tamanho-corpo: 1rem;
+  --tamanho-titulo: clamp(1.5rem, 5vw, 2.25rem);
+  --tamanho-subtitulo: clamp(1.15rem, 3vw, 1.5rem);
+  --altura-linha: 1.5;
+
+  /* Espaço */
+  --espaco-xs: 0.5rem;
+  --espaco-sm: 0.75rem;
+  --espaco-md: 1rem;
+  --espaco-lg: 1.5rem;
+  --espaco-xl: 2rem;
+  --largura-conteudo: 40rem;
+  --padding-pagina: 5%;
+
+  /* Contorno e toque */
+  --raio: 0.5rem;
+  --toque: 44px;
+}
